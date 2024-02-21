@@ -16,6 +16,9 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/BrendonGor/success-in-cs',
 			},
+			editLink: {
+				baseUrl: 'https://github.com/BrendonGor/success-in-cs/edit/main/',
+			  },
 			sidebar: [
 				{
 					label: 'Guides',
