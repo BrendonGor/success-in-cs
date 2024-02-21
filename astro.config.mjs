@@ -10,6 +10,9 @@ export default defineConfig({
 				// Path to your Tailwind base styles:
 				'./src/styles/custom.css',
 			  ],
+			logo: {
+				src: './src/assets/Ulogo_RGB.png',
+			  },
 			social: {
 				github: 'https://github.com/BrendonGor/success-in-cs',
 			},
