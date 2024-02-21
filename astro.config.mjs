@@ -6,6 +6,10 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'CS 1960',
+			customCss: [
+				// Path to your Tailwind base styles:
+				'./src/styles/custom.css',
+			  ],
 			social: {
 				github: 'https://github.com/BrendonGor/success-in-cs',
 			},
