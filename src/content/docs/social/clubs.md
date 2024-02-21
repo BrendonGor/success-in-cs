@@ -1,4 +1,4 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Clubs
+description: A guide on clubs during one's College tenure.
 ---

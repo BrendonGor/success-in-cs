@@ -1,4 +1,4 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Studying
+description: Yes, studying can be a social thing.
 ---
