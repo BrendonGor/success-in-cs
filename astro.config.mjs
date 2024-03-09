@@ -77,6 +77,7 @@ export default defineConfig({
 				// 	autogenerate: { directory: 'social' },
 				// },
 			],
+			favicon: '/U_medallion_WHITE.png',
 		}),
 	],
 });
